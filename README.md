@@ -1,2 +1,3 @@
 # 6-key-keypad-test
- i have no idea what i'm doing
+(discontinued, do not use this as a reference for work) 
+will be remaking in the future
